@@ -1,5 +1,5 @@
 This is to practice git branching
-What is rebase?
+What is rebase2
 
 hello
 =======
