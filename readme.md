@@ -1,1 +1,1 @@
-This is t practice git branching
+This is to practice git branching
